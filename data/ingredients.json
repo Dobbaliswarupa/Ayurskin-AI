@@ -1,0 +1,115 @@
+{
+    "aloe_vera": {
+        "name": "Aloe Vera",
+        "image": "images/aloe_vera.jpg",
+        "category": "Soothing and moisturizing",
+        "suitable_for": [
+            "Dry",
+            "Oily",
+            "Combination",
+            "Normal"
+        ],
+        "traditional_use": "Commonly used as a soothing plant-based skincare ingredient.",
+        "benefits": [
+            "Provides a soothing feel",
+            "Can support skin hydration",
+            "Useful in simple moisturizing routines"
+        ],
+        "caution": "Some people may experience irritation or allergy. Patch test before use."
+    },
+
+    "oat": {
+        "name": "Oat",
+        "image": "images/oat.jpg",
+        "category": "Soothing and gentle care",
+        "suitable_for": [
+            "Dry",
+            "Oily",
+            "Combination",
+            "Normal"
+        ],
+        "traditional_use": "Used in gentle skin-soothing preparations.",
+        "benefits": [
+            "Supports gentle skin care",
+            "Can help reduce the feeling of dryness",
+            "Suitable for simple soothing routines"
+        ],
+        "caution": "Avoid if you know you are sensitive or allergic to oats."
+    },
+
+    "coconut_oil": {
+        "name": "Coconut Oil",
+        "image": "images/coconut_oil.jpg",
+        "category": "Moisturizing",
+        "suitable_for": [
+            "Dry"
+        ],
+        "traditional_use": "Traditionally used as a plant-based oil for moisturizing skin.",
+        "benefits": [
+            "Provides an occlusive moisturizing effect",
+            "Helps reduce moisture loss"
+        ],
+        "caution": "May feel heavy and may not suit acne-prone or oily facial skin."
+    },
+
+    "rose_water": {
+        "name": "Rose Water",
+        "image": "images/rose_water.jpg",
+        "category": "Refreshing",
+        "suitable_for": [
+            "Normal",
+            "Combination"
+        ],
+        "traditional_use": "Traditionally used as a refreshing botanical preparation.",
+        "benefits": [
+            "Provides a refreshing feel",
+            "Can be used as part of a simple skincare routine"
+        ],
+        "caution": "Fragranced products can irritate sensitive skin."
+    },
+
+    "turmeric": {
+        "name": "Turmeric",
+        "image": "images/turmeric.jpg",
+        "category": "Traditional botanical ingredient",
+        "suitable_for": [
+            "Normal",
+            "Combination"
+        ],
+        "traditional_use": "Traditionally used in various cultural skincare preparations.",
+        "benefits": [
+            "Commonly included in traditional skincare preparations"
+        ],
+        "caution": "Can irritate some skin and may temporarily stain the skin. Avoid aggressive DIY applications."
+    },
+
+    "honey": {
+        "name": "Honey",
+        "image": "images/honey.jpg",
+        "category": "Moisturizing and soothing",
+        "suitable_for": [
+            "Dry",
+            "Normal"
+        ],
+        "traditional_use": "Traditionally used in topical preparations.",
+        "benefits": [
+            "Can provide a moisturizing feel",
+            "Can be included in simple soothing preparations"
+        ],
+        "caution": "Avoid if allergic to honey or bee products. Use clean products and avoid applying to broken skin."
+    },
+
+    "sandalwood": {
+        "name": "Sandalwood",
+        "image": "images/sandalwood.jpg",
+        "category": "Traditional botanical ingredient",
+        "suitable_for": [
+            "Normal"
+        ],
+        "traditional_use": "Used traditionally in some cultural skincare preparations.",
+        "benefits": [
+            "Used as a traditional botanical ingredient"
+        ],
+        "caution": "Fragrance and botanical ingredients can cause irritation or allergy."
+    }
+}

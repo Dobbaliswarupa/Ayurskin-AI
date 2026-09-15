@@ -1,0 +1,92 @@
+{
+    "hydration": {
+        "name": "Water",
+        "category": "Hydration",
+        "suitable_for": [
+            "Dry",
+            "Oily",
+            "Combination",
+            "Normal"
+        ],
+        "suggestion": "Drink water regularly according to your thirst, activity and environment.",
+        "note": "Adequate hydration supports general health and normal body functions."
+    },
+
+    "coconut_water": {
+        "name": "Coconut Water",
+        "category": "Beverage",
+        "suitable_for": [
+            "Dry",
+            "Oily",
+            "Combination",
+            "Normal"
+        ],
+        "suggestion": "Can be included as an occasional refreshing beverage.",
+        "note": "It is not a treatment for skin conditions or a method to change skin tone."
+    },
+
+    "lemon_water": {
+        "name": "Lemon Water",
+        "category": "Beverage",
+        "suitable_for": [
+            "Dry",
+            "Oily",
+            "Combination",
+            "Normal"
+        ],
+        "suggestion": "Can be used as a refreshing drink if you enjoy it.",
+        "note": "It does not directly change skin tone."
+    },
+
+    "fruit": {
+        "name": "Fruits",
+        "category": "Nutrition",
+        "suitable_for": [
+            "Dry",
+            "Oily",
+            "Combination",
+            "Normal"
+        ],
+        "suggestion": "Include a variety of fruits as part of a balanced diet.",
+        "note": "Fruits support overall nutrition but are not a treatment for skin conditions."
+    },
+
+    "vegetables": {
+        "name": "Vegetables",
+        "category": "Nutrition",
+        "suitable_for": [
+            "Dry",
+            "Oily",
+            "Combination",
+            "Normal"
+        ],
+        "suggestion": "Include a variety of vegetables as part of a balanced diet.",
+        "note": "Balanced nutrition supports general health."
+    },
+
+    "balanced_diet": {
+        "name": "Balanced Diet",
+        "category": "General Wellness",
+        "suitable_for": [
+            "Dry",
+            "Oily",
+            "Combination",
+            "Normal"
+        ],
+        "suggestion": "Aim for a varied diet containing appropriate sources of protein, carbohydrates, healthy fats, fruits and vegetables.",
+        "note": "Individual nutrition needs can vary."
+    },
+
+    "sleep": {
+        "name": "Regular Sleep",
+        "category": "Lifestyle",
+        "suitable_for": [
+            "Dry",
+            "Oily",
+            "Combination",
+            "Normal"
+        ],
+        "suggestion": "Maintain a consistent sleep routine and aim for adequate sleep.",
+        "note": "Sleep supports general health and wellbeing."
+    }
+}
