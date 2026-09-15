@@ -1,9 +1,7 @@
-streamlit
-opencv-python
-mediapipe
-numpy
-pandas
-scikit-learn
+fastapi
+uvicorn
+python-multipart
 pillow
-joblib
-matplotlib
+numpy
+python-dotenv
+google-genai
